@@ -165,6 +165,6 @@ Using system clock to trigger actions
 
 Click below to download the project:
 
-👉 https://github.com/onkar123/Bulk-Message-Sender/archive/refs/heads/main.zip
+👉 https://github.com/onkaru-ctrl/Bulk-Message-Sender/tree/main
 
 Then click on **Code → Download ZIP**
